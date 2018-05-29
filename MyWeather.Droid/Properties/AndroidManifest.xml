@@ -3,6 +3,7 @@
           xmlns:tools="http://schemas.android.com/tools"
           package="com.refractored.myweather" 
           android:installLocation="auto" 
+	  android:debuggable="false"
           android:versionCode="1"
           android:versionName="1.0">
 	<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="24" />
